@@ -1,0 +1,167 @@
+.hh1{
+    text-align: center;
+    background-color: rgb(252, 183, 157);
+    
+}
+.cards{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin: 10px ;
+    
+}
+.cards .image{
+    width: 100%;
+    margin-top: 40px;
+
+}
+.cards .image{
+    text-align: center;
+    font-size: 20px;
+    color: #e4799c;
+}
+.card{
+    background-color: bisque ;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    
+    vertical-align: top;
+    align-content: center;
+    float: left;
+}
+.card{
+    text-align: center;
+    margin: 40px 20px;
+    background-color: rgb(252, 183, 157);
+}
+.image{
+    width: 40%;
+    text-align: center;
+}
+
+
+
+.content{
+    text-align: center;
+    margin-top: 10px;
+}
+.content{
+    margin-top: 10px;
+}
+.main:hover div{
+    display: inline-block
+
+}
+.card{
+    display: none;
+}
+.card1{
+    background-color: bisque ;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    margin: 40px 20px;
+    background-color: rgb(252, 183, 157);
+   align-content: center;
+    vertical-align: top;
+    float: right;
+    margin-top: 100px;
+
+}
+.card2{
+    background-color: bisque ;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    margin: 40px 20px;
+    background-color: rgb(252, 183, 157);
+    float: left;
+    
+    vertical-align: top;
+    
+
+
+}
+.card:hover .card1{
+    display: inline-block;
+
+}
+.card1{
+    display: none;
+}
+.card1:hover .card2{
+    display: inline-block;
+}
+.card2{
+    display: none;
+}
+.card2:hover .card3{
+    display: inline-block;
+}
+
+.card3{
+    background-color: bisque ;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    margin: 40px 20px;
+    background-color: rgb(252, 183, 157);
+    float: right;
+    vertical-align: top;
+}
+.card3{
+    display: none;
+}
+h2:hover + p{
+    display: inline-block;
+
+
+}
+p{
+    display: none;
+}
+.qq{
+    display: inline-block;
+    
+    
+}
+.ww{
+    display: inline-block;
+    height: 50px;
+    width: 850px;
+    background-color: rgb(252, 183, 157);
+    margin-top: 50px;
+    
+    
+}
+.ee{
+    display: inline-block;
+    display: inline-block;
+    height: 50px;
+    width: 850px;
+    background-color: rgb(252, 183, 157);
+    margin-top: 50px;
+    
+
+}
+.rr{
+    display: inline-block;
+    display: inline-block;
+    display: inline-block;
+    height: 50px;
+    width: 850px;
+    background-color: rgb(252, 183, 157);
+    margin-top: 50px;
+   
+}
+nav{
+    height: 50px;
+    width: 850px;
+    background-color:rgb(252, 183, 157);
+    margin-top: 100px;
+    
+}
